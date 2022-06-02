@@ -47,7 +47,7 @@ Spiderman 2D game
 ### Running `online`
 - Go to https://github.com/vignesh-vj01/spiderman-2D-game
 ### Running `offline`
-- Download `source.code.zip` from [here](https://github.com/RedEdge967/Spider-Man/releases)
+- Download `source.code.zip` from [here](https://github.com/vignesh-vj01/spiderman-2D-game)
 - Extract the folder
 - Run `index.html` file in the browser
 ---
